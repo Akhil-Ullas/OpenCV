@@ -59,4 +59,5 @@ The goal is to understand how raw images and video frames can be programmaticall
 * Tested real-time frame acquisition from webcam.
 
 ---
+ video link : https://www.linkedin.com/posts/akhil-v-u_opencv-computervision-imageprocessing-activity-7425430513613598720-4l3S?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEReND4B5ezJ3Cob0NsbJWf-DVIjva4njNU
 
